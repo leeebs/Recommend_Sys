@@ -1,4 +1,4 @@
-# RMSE(Root Mean Square Error)  
+## RMSE(Root Mean Square Error)  
 
 평균 제곱근 편차    
 실제 값과 모델 예측값의 차이를 하나의 숫자로 나타낸다.     
