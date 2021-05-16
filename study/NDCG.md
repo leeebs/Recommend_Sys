@@ -1,4 +1,5 @@
-#NDCG(Normalized Discounted Cumulative Gain)
+## NDCG(Normalized Discounted Cumulative Gain)
+
 
 랭킹 추천에 많이 사용되는 지표     
 정보검색에서 많이 사용 -> 순서가 더 중요하기 때문에        
