@@ -6,5 +6,7 @@
 TOP-N 랭킹리스트 구성, 더 관심있거나 관련성 높은 아이템 포함 여부 평가     
 순위에 가중치, 단순한 랭킹이 아닌 데이터의 성향 반영     
 
-NDCG         
+NDCG      
+      
+### 1.CG
 ![image](https://user-images.githubusercontent.com/66204538/119470175-0bb97100-bd83-11eb-8696-27d9956c1403.png)
